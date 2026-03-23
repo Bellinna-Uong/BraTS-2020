@@ -1,0 +1,8 @@
+numpy
+nibabel
+glob2
+tensorflow
+matplotlib
+tifffile
+scikit-learn
+split-folders
