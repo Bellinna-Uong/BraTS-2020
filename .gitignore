@@ -1,2 +1,5 @@
 BraTS2020_TrainingData
 BraTS2020_ValidationData
+venv
+.claude
+__pycache__
